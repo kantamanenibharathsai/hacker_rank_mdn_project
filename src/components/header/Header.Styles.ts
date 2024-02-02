@@ -2,8 +2,6 @@ const headerStyles = {
   appBar: {
     backgroundColor: "#ffffff",
     height: "60px",
-    postion: "static",
-    top: "60px"
   },
 
   toolbar: {
